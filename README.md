@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A007A&height=300&section=header&text=welcome%20to%20my%20world&fontSize=60&animation=fadeIn&fontAlignY=38&desc=front%20and%20back&descAlignY=51&descAlign=78&fontColor=D699FF" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A007A&height=300&section=header&text=welcome%20to%20my%20world&fontSize=60&animation=fadeIn&fontAlignY=38&desc=be%20creative&descAlignY=51&descAlign=78&fontColor=D699FF" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=50&color=D699FF&center=true&vCenter=true&width=1000&height=70&lines=My+name+is+Giordana+Camargo;21+years+old;I'm+from+Brazil;Welcome+C%3D)](https://git.io/typing-svg)
 
